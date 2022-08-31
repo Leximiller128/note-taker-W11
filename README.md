@@ -9,6 +9,7 @@
 - Tests
 - Installation
 - Contributions
+- License
 
 ---
 
